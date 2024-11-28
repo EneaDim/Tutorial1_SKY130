@@ -1,0 +1,20 @@
+library: TUTORIAL_ONE_SKY130A
+cell: TUTORIAL_ONE
+# Your name
+author: Enea Dimroci
+# Your github username
+github: EneaDim
+# Something funny and descriptive
+tagline: CIC Tutorial
+# Your email, if you so wish
+email: enea.dimroci@gmail.com
+# Your github site, usually <github username>.github.io
+url: EneaDim.github.io
+doc:
+  # Make docs
+  #libraries:
+  #   <library>:
+  #       - <cell>
+  #       - <cell>
+sim:
+  # <simdir>: command
