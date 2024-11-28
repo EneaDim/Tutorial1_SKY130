@@ -6,16 +6,14 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-eneadim
+Enea Dimroci
 
 # Why
-
-<explain why you made this module>
+SKYWATER 130 nm tutorial
 
 # How
 
-<explain short how you made this module>
-
+Make basic analog blocks
 
 # What
 
