@@ -1,0 +1,9 @@
+options:
+  useTmpDir: False
+  sha: True
+corner:
+  Lay: ''
+  Sch: ''
+ngspice:
+  library: TUTORIAL_ONE_SKY130A
+  cell: TUTORIAL_ONE
